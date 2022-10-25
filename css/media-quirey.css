@@ -1,0 +1,230 @@
+
+/* Extra small devices (portrait phones, less than 576px) */
+@media (max-width: 575.98px) {
+
+/*Navbar start*/
+.c-logo{
+	width: 150px;
+}
+.c_menu{
+	margin-top: 10px;
+}
+.c_menu ul li a{
+	padding-bottom: 0;
+	font-size: 13px;
+
+}
+.login-btn {
+	margin-left: 5px;
+	margin-top: 13px;
+}
+/*Navbar End*/
+
+/*Slider start*/
+.slider {
+    padding: 33px 0;
+}
+.carousel-indicators {
+    left: 12px;
+}
+.slider-text {
+    margin-top: 25px;
+}
+.slider-text p {
+    font-size: 13px;
+    font-weight: 500;
+    padding: 8px 18px 8px 12px;
+}
+.slider-text h1 {
+    font-size: 32px;
+}
+.slider-text h1 span i {
+    font-size: 25px;
+    width: 42px;
+    height: 40px;
+    line-height: 41px;
+}
+.slider-text .t-text {
+    font-size: 32px;
+}
+.slider-img img {
+    padding: 0 60px;
+}
+.c-btn {
+    margin: 20px 0 40px;
+    padding: 13px 25px;
+}
+.c-btn:hover{
+    padding: 13px 25px;
+    border-image: linear-gradient(45deg, transparent 10%, white 10%, white 90%, transparent 90%) 22 fill / 13px;
+    color: #000033;
+}
+.t-image {
+    padding-bottom: 20px;
+}
+/*Slider end*/
+
+}
+
+/* Small devices (landscape phones, 576px and up) */
+@media (min-width: 576px) and (max-width: 767.98px) {
+/*Navbar start*/
+.c_menu{
+	margin-top: 10px;
+}
+.c_menu ul li a{
+	padding-bottom: 0;
+	font-size: 13px;
+
+}
+.login-btn {
+	margin-left: 5px;
+	margin-top: 13px;
+}
+/*Navbar End*/
+
+/*Slider start*/
+.slider {
+    padding: 33px 0;
+}
+.carousel-indicators {
+    left: 12px;
+}
+.slider-text {
+    margin-top: 25px;
+}
+.slider-text p {
+    font-size: 13px;
+    font-weight: 500;
+    padding: 8px 18px 8px 12px;
+}
+.slider-text h1 {
+    font-size: 36px;
+}
+.slider-text h1 span i {
+    font-size: 25px;
+    width: 42px;
+    height: 40px;
+    line-height: 41px;
+}
+.slider-text .t-text {
+    font-size: 34px;
+}
+.slider-img img {
+    padding: 0 150px;
+}
+.c-btn {
+    margin: 20px 0 40px;
+    padding: 13px 25px;
+}
+.c-btn:hover{
+    padding: 13px 25px;
+    border-image: linear-gradient(45deg, transparent 10%, white 10%, white 90%, transparent 90%) 22 fill / 13px;
+    color: #000033;
+}
+.t-image {
+    padding-bottom: 20px;
+}
+/*Slider end*/
+
+}
+
+/* Medium devices (tablets, 768px and up) */
+@media (min-width: 768px) and (max-width: 991.98px) {
+/*Navbar start*/
+.c_menu{
+	margin-top: 5px;
+}
+.c_menu ul li a{
+	padding-bottom: 0;
+	font-size: 13px;
+
+}
+.login-btn {
+	margin-left: 5px;
+	margin-top: 13px;
+}
+/*Navbar End*/
+
+/*Slider start*/
+.slider {
+    padding: 40px 0;
+}
+.slider-text {
+    margin-top: 25px;
+}
+.slider-text p {
+    font-size: 13px;
+    font-weight: 500;
+    padding: 8px 18px 8px 12px;
+}
+.slider-text h1 {
+    font-size: 36px;
+}
+.slider-text h1 span i {
+    font-size: 25px;
+    width: 42px;
+    height: 40px;
+    line-height: 41px;
+}
+.slider-text .t-text {
+    font-size: 36px;
+}
+.c-btn {
+    margin: 25px 0 50px;
+    padding: 13px 34px;
+}
+.t-image {
+    padding-bottom: 30px;
+}
+/*Slider end*/
+
+}
+
+/* Large devices (desktops, 992px and up) */
+@media (min-width: 992px) and (max-width: 1199.98px) {
+/*Navbar start*/
+.c_menu ul li a {
+    font-size: 15px;
+    font-weight: 700;
+    margin-right: 14px !important;
+}
+.login-btn {
+    margin-left: 20px;
+    font-weight: 600;
+    font-size: 15px;
+    padding: 8px 22px;
+    border-right: 4px solid #ccff00;
+}
+/*Navbar end*/
+
+
+/*Slider start*/
+.slider {
+padding: 38px 0;
+}
+.slider-text h1 {
+  font-size: 54px;
+}
+.c-btn{
+	margin: 27px 0 55px;
+}
+/*Slider end*/
+
+}
+
+/* Extra Large devices (desktops, 1200px and up) */
+@media (min-width: 1200px) and (max-width: 1399.98px) {
+	
+}
+
+/* Extra Extra large devices (Extra large desktops, 1400px and up) */
+@media (min-width: 1400px) {
+.slider {
+    padding: 50px 0 60px;
+}
+.slider-text h1{
+	font-size: 65px;
+}
+
+}

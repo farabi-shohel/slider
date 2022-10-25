@@ -1,0 +1,8 @@
+Project Fonts====
+	font-family: 'Rajdhani', sans-serif;
+	font-family: 'Rubik', sans-serif;
+
+Website Color====
+	yellow : #ccff00;
+	white  : #ffffff;
+	black  : #000033;
